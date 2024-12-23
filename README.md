@@ -1,4 +1,4 @@
-# Hi there, I'm Dani (dlcrr1)! 👋
+# Dani's (dlcrr1) Portfolio
 
 Welcome to my GitHub profile! I'm an aspiring data analyst with keen interest in health data and AI.  
 
